@@ -87,3 +87,20 @@ section .laptop {
   .sci li a {
     display: inline-block;
     transform: scale(0.5); }
+
+.cards {
+  position: absolute;
+  bottom: 0;
+  color: white;
+  display: flex; }
+
+.card {
+  position: relative;
+  padding: 20px;
+  margin-right: 40px;
+  max-width: 700px;
+  background: #33afa599; }
+  .card h3 {
+    font-weight: 600;
+    letter-spacing: 5px;
+    color: yellow; }
