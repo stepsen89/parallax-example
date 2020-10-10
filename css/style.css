@@ -61,7 +61,8 @@ section .laptop {
 .content {
   position: relative;
   color: #ED5C2B;
-  max-width: 600px; }
+  max-width: 600px;
+  left: 100px; }
   .content h2 {
     font-size: 3em;
     font-weight: 400; }
